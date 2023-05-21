@@ -4,7 +4,7 @@
 
 Eu sou Lucas Gabriel Avelino dos Santos e atualmente resido em Recife-PE
 
-Desde criança, sou apaixonado pela área de ciências exatas e da natureza. Essa paixão me levou a cursar alguns períodos de engenharia elétrica eletronica na UPE, mas optei por mudar de curso e atualmente, estou cursando Física na UFPE. Além disso, estou matriculado na escola online Alura onde estou focado em aprofundar na área de data science.
+Desde criança, sou apaixonado pela área de ciências exatas e da natureza. Essa paixão me levou a cursar alguns períodos de engenharia elétrica eletronica na UPE, mas optei por mudar de curso e atualmente, estou cursando Física na UFPE. Além disso, estou matriculado na escola online de tecnologia Alura onde estou focado em aprofundar na área de data science para que futuramente consiga minha primeira oportunidade de trabalho.
 
 ## Linguagens e Ferramentas
 
