@@ -8,7 +8,7 @@ Desde criança, sou apaixonado pela área de ciências exatas e da natureza. Ess
 
 ## Linguagens e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org)][![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![My Skills](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org) [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)
 
 <!--
